@@ -10,7 +10,7 @@ git config --list
 git init
 git remote add origin https://path-to-repo
 git add .
-git commit
+git commit -m "message"
 
 git clone https://path-to-repo
 
