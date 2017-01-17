@@ -8,6 +8,7 @@ git config --global user.email your@email.com
 git config --list
 
 git init
+git remote add origin https://path-to-repo
 git add .
 git commit
 
