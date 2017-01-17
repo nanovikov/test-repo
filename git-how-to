@@ -1,0 +1,32 @@
+## How to use Git
+
+git help gittutorial
+
+git config --global user.name "Your user name" 
+git config --global user.email your@email.com
+
+git config --list
+
+git init
+git add .
+git commit
+
+git add file1
+git diff --cached
+git commit
+
+OR
+
+git commit -a
+
+git log
+
+git branch branchname
+git checkout branchname
+
+git clone /path-to-project name-of-repo
+git pull /path-to-repo branchname
+git fetch /path-to-repo branchname
+
+
+
