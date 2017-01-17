@@ -12,6 +12,8 @@ git remote add origin https://path-to-repo
 git add .
 git commit
 
+git clone https://path-to-repo
+
 git add file1
 git diff --cached
 git commit
